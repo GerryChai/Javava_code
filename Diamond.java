@@ -1,4 +1,4 @@
-
+//not working well. see Diamondrow
 public class Diamond {
 
 	public static void main(String[] args) {
